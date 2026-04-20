@@ -1,0 +1,39 @@
+.item-card {
+  background-color: #b4f9dd !important;
+  border: none !important;
+  border-radius: 0.75rem !important;
+  overflow: hidden;
+
+  .item-body {
+    background-color: #b4f9dd !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .card-title {
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+  }
+
+  .card-text {
+    margin-bottom: 0.5rem;
+  }
+
+  .btn-info {
+    background-color: #d2d7ff !important;
+    color: black !important;
+    border: none !important;
+    --bs-btn-border-color: #d2d7ff;
+    --bs-btn-hover-bg: #d2d7ff;
+    --bs-btn-hover-border-color: #d2d7ff;
+    --bs-btn-active-bg: #d2d7ff;
+    --bs-btn-active-border-color: #d2d7ff;
+    width: fit-content;
+    margin: 0 auto;
+    display: block;
+    padding: 0.35rem 1.5rem;
+    border-radius: 20px;
+  }
+}

@@ -1,0 +1,26 @@
+.custom-navbar {
+  background-color: #111111;
+}
+
+.brand-title,
+.navbar-brand {
+  color: white !important;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.brand-title:hover,
+.brand-title:focus,
+.navbar-brand:hover,
+.navbar-brand:focus {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.custom-nav-link {
+  color: white !important;
+}
+
+.custom-nav-link:hover {
+  color: #d9d9d9 !important;
+}
