@@ -32,4 +32,6 @@ backend/yarn-debug.log*
 backend/yarn-error.log*
 
 # Environment variables
+backend/.env.env
+backend/.env
 backend/.env
