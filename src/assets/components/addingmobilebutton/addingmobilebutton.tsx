@@ -1,5 +1,5 @@
 import Button from 'react-bootstrap/Button';
-import './AddingMobileButton.scss'
+import './addingmobilebutton.scss'
 
 function AddingMobileButton() {
     return (
